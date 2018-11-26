@@ -1,0 +1,9 @@
+45:45:1:/Images/item_bomb.gif
+90:45:1:/Images/item_bomb.gif
+135:45:2:/Images/item_bombsize.gif
+585:540:2:/Images/item_bombsize.gif
+585:45:2:/Images/item_bombsize.gif
+675:45:3:/Images/item_shoe.gif
+45:585:3:/Images/item_shoe.gif
+585:585:3:/Images/item_shoe.gif
+90:540:2:/Images/item_bombsize.gif

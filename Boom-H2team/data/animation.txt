@@ -1,0 +1,25 @@
+8
+
+standfront
+standfront1 30000000 standfront2 30000000 standfront3 30000000 
+
+standleft
+standleft1 30000000 standleft2 30000000 standleft3 30000000 
+
+standlbehind
+standlbehind1 30000000 
+
+standright
+standright1 30000000 standright2 30000000 standright3 30000000
+
+runfrond
+runfrond1 5000000 runfrond2 5000000 runfrond3 5000000 runfrond4 5000000 runfrond5 5000000 runfrond6 5000000 runfrond7 5000000 runfrond8 5000000 runfrond9 5000000 runfrond10 5000000
+
+runleft
+runleft1 5000000 runleft2 5000000 runleft3 5000000 runleft4 5000000 runleft5 5000000 runleft6 5000000 runleft7 5000000 runleft8 5000000 runleft9 5000000 runleft10 5000000
+
+runbehind
+runbehind1 5000000 runbehind2 5000000 runbehind3 5000000 runbehind4 5000000 runbehind5 5000000 runbehind6 5000000 runbehind7 5000000 runbehind8 5000000 runbehind9 5000000 runbehind10 5000000
+
+runright
+runright1 5000000 runright2 5000000 runright3 5000000 runright4 5000000 runright5 5000000 runright6 5000000 runright7 5000000 runright8 5000000 runright9 5000000 runright10 5000000

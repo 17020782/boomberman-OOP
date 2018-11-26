@@ -1,0 +1,12 @@
+315:90:5:3:3:1:/Images/quaivat 1_down.png
+360:90:5:3:3:1:/Images/quaivat 1_down.png
+360:135:5:3:3:1:/Images/quaivat 1_down.png
+315:45:5:3:3:1:/Images/quaivat 1_down.png
+360:45:5:3:3:1:/Images/quaivat 1_down.png
+45:225:6:3:5:1:/Images/quaivat 2_down.png
+45:180:6:3:5:1:/Images/quaivat 2_down.png
+675:225:6:3:5:1:/Images/quaivat 2_down.png
+675:180:6:3:5:1:/Images/quaivat 2_down.png
+400:355:7:3:7:500:/Images/quaivat 3_down.png
+445:310:7:3:7:500:/Images/quaivat 3_down.png
+400:310:7:3:7:500:/Images/quaivat 3_down.png

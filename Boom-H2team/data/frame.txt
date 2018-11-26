@@ -1,0 +1,352 @@
+
+50
+
+standfront1
+image/actor.png
+x 5
+y 0
+w 45
+h 68
+
+standfront2
+image/actor.png
+x 65
+y 0
+w 45
+h 68
+
+standfront3
+image/actor.png
+x 125
+y 0
+w 45
+h 68
+
+standleft1
+image/actor.png
+x 9
+y 74
+w 44
+h 56
+
+standleft2
+image/actor.png
+x 69
+y 74
+w 44
+h 55
+
+standleft3
+image/actor.png
+x 129
+y 74
+w 44
+h 56
+
+standlbehind1
+image/actor.png
+x 7.5
+y 142.5
+w 45
+h 52.5
+
+standright1
+image/actor.png
+x 7.5
+y 205
+w 42.5
+h 55
+
+standright2
+image/actor.png
+x 65
+y 205
+w 42.5
+h 55
+
+standright3
+image/actor.png
+x 127.5
+y 205
+w 42.5
+h 55
+
+runfrond1
+image/actor.png
+x 7.5
+y 267.5 
+w 42.5
+h 57.5
+
+runfrond2
+image/actor.png
+x 67.5
+y 265 
+w 45
+h 60
+
+runfrond3
+image/actor.png
+x 127
+y 265 
+w 45
+h 62
+
+runfrond4
+image/actor.png
+x 187.5
+y 265 
+w 45
+h 60
+
+runfrond5
+image/actor.png
+x 247.5
+y 265 
+w 45
+h 60
+
+runfrond6
+image/actor.png
+x 307.5
+y 267.5 
+w 45
+h 57.5
+
+runfrond7
+image/actor.png
+x 367.5
+y 265 
+w 45
+h 67.5
+
+runfrond8
+image/actor.png
+x 427.5
+y 265 
+w 45
+h 60
+
+runfrond9
+image/actor.png
+x 487.5
+y 265 
+w 45
+h 60
+
+runfrond10
+image/actor.png
+x 547.5
+y 265 
+w 45
+h 60
+
+runleft1
+image/actor.png
+x 2.5
+y 335 
+w 57.5
+h 55
+
+runleft2
+image/actor.png
+x 65
+y 335 
+w 47.5
+h 52.5
+
+runleft3
+image/actor.png
+x 127.5
+y 332.5 
+w 42.5
+h 50
+
+runleft4
+image/actor.png
+x 185
+y 332.5
+w 47.5
+h 55
+
+runleft5
+image/actor.png
+x 245
+y 332.5 
+w 45
+h 55
+
+runleft6
+image/actor.png
+x 302.5
+y 335 
+w 57.5
+h 55
+
+runleft7
+image/actor.png
+x 365
+y 335 
+w 47.5
+h 55
+
+runleft8
+image/actor.png
+x 425
+y 332.5 
+w 45
+h 52.5
+
+runleft9
+image/actor.png
+x 487.5
+y 332.5 
+w 47.5
+h 60
+
+runleft10
+image/actor.png
+x 545
+y 332.5 
+w 50
+h 55
+
+runbehind1
+image/actor.png
+x 7.5
+y 395 
+w 45
+h 55
+
+runbehind2
+image/actor.png
+x 67.5
+y 395
+w 45
+h 55
+
+runbehind3
+image/actor.png
+x 127.5
+y 390 
+w 45
+h 60
+
+runbehind4
+image/actor.png
+x 187.5
+y 390
+w 45
+h 60
+
+runbehind5
+image/actor.png
+x 247.5
+y 390 
+w 45
+h 60
+
+runbehind6
+image/actor.png
+x 307.5
+y 395 
+w 45
+h 55
+
+runbehind7
+image/actor.png
+x 367.5
+y 395 
+w 45
+h 55
+
+runbehind8
+image/actor.png
+x 427.5
+y 390
+w 45
+h 60
+
+runbehind9
+image/actor.png
+x 487.5
+y 392.5 
+w 45
+h 60
+
+runbehind10
+image/actor.png
+x 547.5
+y 390 
+w 45
+h 60
+
+runright1
+image/actor.png
+x 2.5
+y 462.5
+w 50
+h 55
+
+runright2
+image/actor.png
+x 67.5
+y 462.5
+w 47.5
+h 55
+
+runright3
+image/actor.png
+x 127.5
+y 462.5
+w 42.5
+h 55
+
+runright4
+image/actor.png
+x 185
+y 465 
+w 47.5
+h 55
+
+runright5
+image/actor.png
+x 240
+y 465
+w 57.5
+h 55
+
+runright6
+image/actor.png
+x 305
+y 462.5 
+w 50
+h 55
+
+runright7
+image/actor.png
+x 364
+y 462.5 
+w 47.5
+h 55
+
+runright8
+image/actor.png
+x 430
+y 462.5 
+w 42.5
+h 50
+
+runright9
+image/actor.png
+x 490
+y 465 
+w 47.5
+h 52.5
+
+runright10
+image/actor.png
+x 540
+y 465 
+w 57.5
+h 55
